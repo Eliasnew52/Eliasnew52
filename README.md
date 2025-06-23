@@ -10,23 +10,21 @@ I'm a developer with a keen interest in web development, AI and programming. I a
 
 ## Skills & Technologies
 
-flask,django,html,css,git,github,flutter,sqlite,mysql,postgres,aws,graphql,bootstrap,dart
+[![My Skills](https://skillicons.dev/icons?i=flask,django,html,css,git,github,flutter,sqlite,mysql,postgres,aws,graphql,bootstrap,dart&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
-- [DevTalles-Flutter](https://github.com/Eliasnew52/DevTalles-Flutter): . ⭐ 2 | Language: Dart
-
-- [PG-FinalProject-Drive](https://github.com/Eliasnew52/PG-FinalProject-Drive): . ⭐ 2 | Language: Python
-
-- [GreenGuardianMK2](https://github.com/Eliasnew52/GreenGuardianMK2): . ⭐ 2 | Language: Python
+[![DevTalles-Flutter](https://github-readme-stats.vercel.app/api/pin/?username=Eliasnew52&repo=DevTalles-Flutter&theme=dark)](https://github.com/Eliasnew52/DevTalles-Flutter)
+[![PG-FinalProject-Drive](https://github-readme-stats.vercel.app/api/pin/?username=Eliasnew52&repo=PG-FinalProject-Drive&theme=dark)](https://github.com/Eliasnew52/PG-FinalProject-Drive)
+[![GreenGuardianMK2](https://github-readme-stats.vercel.app/api/pin/?username=Eliasnew52&repo=GreenGuardianMK2&theme=dark)](https://github.com/Eliasnew52/GreenGuardianMK2)
 
 ## GitHub Stats
-
 📊 **Public Repositories:** 21  
 👥 **Followers:** 1 Million (fr fr)  
 👤 **Following:** The Path of the Programming 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eliasnew52&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasnew52&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Latest Blog Posts
 
